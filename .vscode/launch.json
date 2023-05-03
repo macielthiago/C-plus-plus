@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/th_ma/OneDrive/Documentos/estudos/C-plus-plus/exercicios/aula02",
-      "program": "c:/Users/th_ma/OneDrive/Documentos/estudos/C-plus-plus/exercicios/aula02/build/Debug/outDebug",
+      "cwd": "c:/Users/th_ma/OneDrive/Documentos/estudos/C-plus-plus/exercicios",
+      "program": "c:/Users/th_ma/OneDrive/Documentos/estudos/C-plus-plus/exercicios/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
