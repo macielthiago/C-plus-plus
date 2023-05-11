@@ -28,3 +28,8 @@ int main() {
     system("pause");
     return 0;
 }
+
+/*
+    BREAK; 
+    O comando break interrompe um loop, quando um loop encontra um comando break, ele interrompe, sai desse loop e continua a execução normal do programa.
+*/
