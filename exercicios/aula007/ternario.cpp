@@ -21,7 +21,7 @@ int main () {
     //(nota >= 60) ? res = "Aprovado"  : res = "reprovado";
 
     res = (nota >= 60) ? "Aprovado"  : "Reprovado";
-    cout << "\n Situacao do aluno: " << res << "\n";
+    cout << "\n Situação do aluno: " << res << "\n";
 
     cout << "\nDigitar outras notas? [s / n]: ";
     cin >> opc;
