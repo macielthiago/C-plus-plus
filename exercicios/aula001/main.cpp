@@ -3,12 +3,13 @@
 
 using namespace std;
 
-int main() {
+int main() 
+{
     SetConsoleCP(1252);
     SetConsoleOutputCP(1252);
 
     cout << "Olá, Mundo \n Apresentação \n";
 
-    system ("pause");
+    system("pause");
     return 0;
 }
