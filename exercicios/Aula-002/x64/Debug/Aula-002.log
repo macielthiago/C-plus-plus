@@ -1,0 +1,3 @@
+﻿  Variáveis.cpp
+C:\Users\th_ma\source\Nova pasta\Aula-002\Variáveis.cpp(13,17): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Aula-002.vcxproj -> C:\Users\th_ma\source\Nova pasta\Aula-002\x64\Debug\Aula-002.exe
